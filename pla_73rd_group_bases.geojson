@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "73rd Group Army HQ",
+        "type": "Military",
+        "location": "Xiamen, Fujian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.097,
+          24.572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "73rd Air Defence Brigade",
+        "type": "Military",
+        "location": "Zhangzhou, Fujian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.807,
+          24.442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "73rd Military Hospital",
+        "type": "Military",
+        "location": "Xiamen, Fujian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0973,
+          24.4592
+        ]
+      }
+    }
+  ]
+}

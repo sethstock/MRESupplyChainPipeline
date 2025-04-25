@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dongxiang Peninsula Staging Area",
+        "type": "Deployment",
+        "location": "Northeast Pingtan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8,
+          25.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aoqian Port (Dual-Use)",
+        "type": "Deployment",
+        "location": "Northwest Pingtan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.79,
+          25.415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Military Ferry Terminal",
+        "type": "Deployment",
+        "location": "Central Pingtan Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.815,
+          25.421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pingtan Island NW Construction Site",
+        "type": "Deployment",
+        "location": "NW Pingtan Island, Fujian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.7856,
+          25.5193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dongshan Island Guleitou Base (Amphibious Training Base)",
+        "type": "Military",
+        "location": "Fujian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.815,
+          25.421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandu'ao Naval Port (Ningde) (Deep-Water Port)",
+        "type": "Deployment",
+        "location": "Fujian (Former PLA naval base)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8361,
+          26.4942
+        ]
+      }
+    }
+  ]
+}

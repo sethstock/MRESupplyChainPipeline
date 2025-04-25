@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinograin HQ",
+        "type": "Logistics",
+        "location": "Beijing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.352,
+          39.932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suiling Storehouse",
+        "type": "Storage",
+        "location": "Heilongjiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.114,
+          47.248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinograin Tianjin",
+        "type": "Storage",
+        "location": "Tianjin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2035,
+          39.1256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qinzhou Port Base",
+        "type": "Logistics",
+        "location": "Guangxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.6,
+          21.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wuhan Joint Logistic Support Base (JLSF HQ)",
+        "type": "Logistics",
+        "location": "Wuhan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2550,
+          30.6181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wuxi Joint Logistics Support Center",
+        "type": "Logistics",
+        "location": "Wuxi, Jiangsu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3276,
+          31.5654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guilin Joint Logistics Support Center",
+        "type": "Logistics",
+        "location": "Guangxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2964,
+          25.2802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xining Joint Logistics Support Center",
+        "type": "Logistics",
+        "location": "Qinghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7804,
+          36.6224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhengzhou Joint Logistics Support Center",
+        "type": "Logistics",
+        "location": "Henan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6253,
+          34.7466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shenyang Joint Logistics Support Center",
+        "type": "Logistics",
+        "location": "Liaoning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4340,
+          41.8047
+        ]
+      }
+    }
+  ]
+}

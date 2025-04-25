@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COFCO Corporation Headquarters",
+        "type": "Production",
+        "location": "Beijing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4342,
+          39.9087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COFCO East Ocean Oils & Grains",
+        "type": "Production",
+        "location": "Zhangjiagang, Jiangsu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.538,
+          31.865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COFCO Jiayue Ltd.",
+        "type": "Production",
+        "location": "Tianjin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.708,
+          38.9987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qinhuangdao Ocean Food Co., Ltd.",
+        "type": "Production",
+        "location": "Hebei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.5643,
+          39.9752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sichuan Huiquan Canned Food Co., Ltd.",
+        "type": "Production",
+        "location": "Chengdu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8090,
+          30.4150
+        ]
+      }
+    }
+  ]
+}
