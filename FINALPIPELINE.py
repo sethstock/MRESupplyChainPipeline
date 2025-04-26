@@ -30,8 +30,8 @@ os.environ.pop('HTTPS_PROXY', None)
 # 1. USER CONFIGURATION & CONSTANTS
 # =============================================================================
 
-USERNAME = "sethstock_94@hotmail.com"
-PASSWORD = "ComradeHobo94!"
+USERNAME = ""
+PASSWORD = ""
 
 # API endpoints and token URL
 odata_search_base = "https://catalogue.dataspace.copernicus.eu/odata/v1/Products?$filter="
